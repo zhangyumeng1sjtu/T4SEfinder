@@ -43,7 +43,7 @@ You can receive the summarized results obtained by various methods in `summary.c
 
 We have compared T4SEfinder(`TAPEBert_MLP`) with existing prediction tools according to the perfomance on an independent test set(30 T4SEs + 150 none-T4SEs). 
 
-|     Method     |  ACC  |   SE   |   SP   |   PR   |  F1   |  MCC  |
+|     Method     |  ACC  |   SN   |   SP   |   PR   |  F1   |  MCC  |
 | :------------: | :---: | :----: | :----: | :----: | :---: | :---: |
 | T4SEpre_psAac  | 90.0% | 63.3%  | 95.3%  | 73.1%  | 0.679 | 0.622 |
 | T4SEpre_bpbAac | 88.3% | 66.7%  | 92.7%  | 64.5%  | 0.656 | 0.586 |
