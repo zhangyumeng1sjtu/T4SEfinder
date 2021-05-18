@@ -4,7 +4,7 @@
 
 Pytorch implementation of T4SEfinder, a genome-scale annotation tool for bacterial type IV secretion system effectors (T4SEs) using pre-trained model. T4SEfinder integrates experimental verified T4SEs in SecReT4 database and those in other studies as the training dataset. It applies protein pre-trained language model(provided by [TAPE repository](https://github.com/songlab-cal/tape)) to the prediction task and achieves high testing accuracy(**97.2%**). It also provides genome-scale prediction for T4SEs.
 
-![Workflow](images/workflow.jpeg)
+![Workflow](https://tool2-mml.sjtu.edu.cn/T4SEfinder_TAPE/images)
 
 ## Set up
 
