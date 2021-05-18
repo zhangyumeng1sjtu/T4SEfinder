@@ -1,0 +1,4 @@
+blastdb/*
+weights/*
+*.npz
+__pycache__
