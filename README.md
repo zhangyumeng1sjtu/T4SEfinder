@@ -17,7 +17,7 @@ Please check the `requirements.txt` file for more details on required Python pac
 pip install -r requirements.txt
 ```
 
-The model paramter files can be download at [here](https://jbox.sjtu.edu.cn/l/VFgBrF).
+The model paramter files can be download at [here](https://drive.google.com/drive/folders/1XTA1wSIU4L1p128oXUnn3sGiXoMXX4O6).
 
 ## Using T4SEfinder
 
@@ -31,7 +31,7 @@ Besides the most recommended model `TAPEBert_MLP`, T4SEfinder provides another t
  -  `TAPEBert_SVM`: replaces the downstream classifier into SVM.
  -  `PSSM_CNN`: based on positional-specific scoring matrix(PSSM) and CNN.
  -  `HybridBiLSTM`: conbines pre-trained feature and PSSM at C terminal in BiLSTM.
- If you want to used the model base on PSSM feature, NCBI BLAST+ 2.10.0 is required(can be downloaded from [ftp.ncbi.nlm.nih.gov](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.10.0])), and the Swissprot database can be downloaded at [here](https://jbox.sjtu.edu.cn/l/T15RcT).
+ If you want to used the model base on PSSM feature, NCBI BLAST+ 2.10.0 is required(can be downloaded from [ftp.ncbi.nlm.nih.gov](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.10.0])), and the Swissprot database can be downloaded at [here](https://drive.google.com/drive/folders/1FvcYGMWR4DBYTBTv4Vcpl4_iEASN_GQG).
 
 T4SEfinder can annotate bacteria genome to discover T4SE-encoding genes. 
 ```shell
