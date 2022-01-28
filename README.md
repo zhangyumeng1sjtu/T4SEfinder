@@ -16,6 +16,7 @@ Please check the `requirements.txt` file for more details on required Python pac
 ```shell
 pip install -r requirements.txt
 ```
+**Update:** Now you can run `pip install T4SEfinder` to install the dependencies instead.
 
 The model paramter files can be download at [here](https://drive.google.com/drive/folders/1XTA1wSIU4L1p128oXUnn3sGiXoMXX4O6).
 
