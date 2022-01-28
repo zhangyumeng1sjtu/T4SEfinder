@@ -1,4 +1,7 @@
 blastdb/*
+build/
+dist/
+T4SEfinder.egg-info
 weights/*
 *.npz
 __pycache__
